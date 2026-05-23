@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    // 🌟 STEP 1 FIX: This tells the code it lives inside this specific folder!
+    // 🌟 THIS IS THE FIX: Tell Vite your project name folder!
     base: '/devardaink.github.io/', 
     
     plugins: [react(), tailwindcss()],
