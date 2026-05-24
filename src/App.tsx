@@ -127,7 +127,7 @@ export default function App() {
         }`}
       >
         <a href="#hero-section" className="flex items-center">          <img 
-            src="./src/assets/images/logo_baru.png" 
+            src="./logo_baru.png" 
             alt="Devarda Ink Logo" 
             className="h-8 md:h-10 w-auto object-contain transition-transform duration-300 hover:scale-105" 
           />
